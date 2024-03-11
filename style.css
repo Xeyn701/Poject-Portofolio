@@ -290,9 +290,6 @@ body {
   display: none; 
 }
 
-.tentang { 
-  padding-block-start: 120px; 
-}
 
 .tentang :is(.section-title, .section-subtitle, .section-text) { 
   text-align: left; 
