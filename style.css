@@ -471,7 +471,7 @@ textarea.kontak-input {
 .kontak-item-link:not(address):is(:hover, :focus) { color: var(--white); }
 
 .footer {
-  background-color: #5f0f0f;
+  background-color: #2b0000;
   padding-block: 20px;
 }
 
