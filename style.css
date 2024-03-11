@@ -299,6 +299,10 @@ body {
   margin-block-end: 30px; 
 }
 
+.portfolio{
+  margin-block-end: 12.6rem;
+}
+
 .portfolio .section-title { 
   margin-block-end: 18px; 
 }
@@ -350,6 +354,9 @@ body {
 .portfolio-card .btn-link ion-icon {
   color: var(--orange-soda);
   font-size: 1.6rem;
+}
+.keahlian{
+  margin-block-end: 12.8rem;
 }
 
 .keahlian .section-title { margin-block-end: 20px; }
@@ -631,7 +638,7 @@ textarea.kontak-input {
 
   .tentang { 
     padding-block: 8rem;
-    margin-block-end: 12rem; 
+    margin-block-end: 14.5rem; 
   }
 
   .tentang .container {
