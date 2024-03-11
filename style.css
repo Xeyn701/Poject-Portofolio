@@ -629,12 +629,16 @@ textarea.kontak-input {
     font-size: 6rem;
   }
 
-  .tentang { padding-block: 90px; }
+  .tentang { 
+    padding-block: 8rem;
+    margin-block-end: 12rem; 
+  }
 
   .tentang .container {
     grid-template-columns: 1fr 1fr;
     align-items: center;
   }
+
 
   .abs-img,
   .abs-icon {
